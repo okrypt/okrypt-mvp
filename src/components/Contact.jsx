@@ -9,7 +9,7 @@ const Contact = () => {
   return (
     <div className="px-4 lg:px-14 py-16 w-full bg-primaryLight">
       <div className="max-w-[1259.56px] md:border-t-[1px] md:pt-10 border-accentColor1 md:flex gap-3 space-y-4 items-center md:justify-evenly block text-center md:text-left">
-        {/* Logo Section */}
+        {/* Logo  */}
         <div className="flex justify-center md:justify-start items-center gap-8 md:mb-0">
           <a
             href="#"
